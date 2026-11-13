@@ -1,3 +1,8 @@
+# Name: Matthew Phillips
+# Date: 11/12/2026
+# Program Name: Pizza Party Planner
+# Description: Write a program that plans the pizza for a party: how many whole pizzas, how many extra slices, and what it costs.
+
 people = 10
 spp = 3
 slices = people * spp
